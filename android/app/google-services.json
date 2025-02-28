@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937993327917",
+    "project_id": "sheelufirebase",
+    "storage_bucket": "sheelufirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937993327917:android:c79e15a78672913b5eafa4",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBXjINhCss-trE0o0n7TKbKh3BOg5En8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
