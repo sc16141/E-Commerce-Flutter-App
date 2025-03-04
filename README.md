@@ -3,7 +3,7 @@
 A new Flutter project.
 Frontend: Flutter (Dart)
 Backend: Firebase (Auth, Firestore, Storage)
-State Management: Provider / Riverpod / GetX
+State Management: Provider / Riverpod /
 
 ## Getting Started
 
